@@ -1,2 +1,3 @@
 Venus is second from the Sun.
+<<<<<<< HEAD
 Venus is next to Earth.
